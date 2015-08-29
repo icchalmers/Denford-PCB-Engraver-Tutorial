@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-12 BZR 5652)-product   date = Sat 22 Aug 2015 17:17:16 BST
+
+BeginCmp
+TimeStamp = /55D8A41F;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D89E12;
+Reference = IC1;
+ValeurCmp = ATTINY85-S;
+IdModule  = FabLibrary:avr-SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D89EB4;
+Reference = P1;
+ValeurCmp = CONN_01X04;
+IdModule  = FabLibrary:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D89F09;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = FabLibrary:Socket_Strip_Straight_1x04;
+EndCmp
+
+EndListe
