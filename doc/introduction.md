@@ -16,4 +16,4 @@ If you don't know how to design a PCB yet, I would recommend looking at [KiCAD](
   - [Getting to Blinky 5.0](https://contextualelectronics.com/courses/getting-to-blinky-5-0/)
 
 ___
-  <[Previous](doc/index.md) | [Next](doc/denfordengraver.md)>
+  <[Previous](/doc/index.md) | [Next](/doc/denfordengraver.md)>
