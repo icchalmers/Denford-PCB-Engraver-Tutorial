@@ -29,5 +29,20 @@ Aside from the above, there are a few specific limitations that are worth keepin
   To enforce this, **only materials purchased from the FabLab can be used on the engraver.** The main downside of FR2 is that it isn't capable of handling as high temperatures as FR4, and as such it can't be used with the reflow oven.
 - **No solder mask:** Solder mask is the green stuff on top of almost every PCB you see. It protects the raw copper and also helps in during soldering by forcing the solder to go where it's meant to. Without a solder mask, you can still use the reflow oven but it has a tendency to heavily discolour the copper to the point it looks burnt.
 
+## When To Use The Denford PCB Engraver
+
+Keeping in mind the above capabilites and limitations, here's some advice on when the Denford PCB Engraver is a good choice for making your PCB:
+
+- Simple quick-n-dirty prototypes. If you just need to prove out an idea, you can iterate on multiple designs in a day.
+- If you need a breakout board for an IC because you forgot to order adapters.
+- For one-off designs. For example, if you need to get a bunch of LEDs in the right place in a 3D model and you need a weird PCB shape to make it work.
+
+I wouldn't recommend the engraver if:
+
+- You want multiple copies of a finalised design.
+- You want a long term, high quality PCB.
+- Your design isn't simple enough to be implemented on a single layer PCB. The more complex a PCB (in terms of size, part and trace count), the more likely you are to run into issues producing it.
+
+Once you're happy that your design is compatible with the engraver, it's time to generate the gerber files.
 ___
   <[Previous](introduction.md) | [Index](index.md) | [Next](kicadgerbers.md)>
