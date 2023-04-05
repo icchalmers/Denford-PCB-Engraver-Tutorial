@@ -2,7 +2,11 @@
 
 This tutorial will lead you through using the [Denford PCB Engraver](https://denford.co.uk/products/pcb-engraver/) to mill a small breakout board for a surface mount ATtiny85. The tutorial was written specifically for the FabLab at the University of Strathclyde, but should be applicable to anyone with a Denford PCB Engraver.
 
+If you are in the FabLab@Strathclyde, you should use this tutorial as a supplement to your machine induction.
+
 All the files for this tutorial can be found on github: <https://github.com/icchalmers/Denford-PCB-Engraver-Tutorial>
+
+Any feedback is greatly appreciated and can be submitted by [opening an issue](https://github.com/icchalmers/Denford-PCB-Engraver-Tutorial/issues/new) on GitHub.
 
 ## Prerequisites
 
