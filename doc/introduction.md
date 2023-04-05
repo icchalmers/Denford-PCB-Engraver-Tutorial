@@ -26,5 +26,6 @@ Technically, the Denford software is capable of generating the milling files fro
   - When writing this tutorial I used pcb2gcode v2.5.0 and pcb2gcodeGUI v1.3.2-1. Installing these on Linux is pretty easy, but for Windows it can be a bit of a nightmare. I've included pre-compiled x64 Windows binaries in the releases of this tutorial. See the readme in the release for installation help.
 - [KiCAD](https://www.kicad.org/) (optional): I used KiCAD as my PCB design software and this tutorial will cover generating gerber files suitable for the engraver using KiCAD, but you can skip this if you already have gerbers ready to use. The [example PCB](/example/PCB/) was created in KiCAD V6.0.
 
+Before we get started, we'll take a quick look at the Denford PCB engraver, it's capabilities and some things to keep in mind when designing circuits to be milled on it.
 ___
   <[Previous](index.md) | [Next](denfordengraver.md)>
