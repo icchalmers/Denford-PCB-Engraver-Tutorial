@@ -8,4 +8,4 @@ If you want to skip this step because you don't have KiCAD installed, you can fi
 
 If you're using different PCB design software, you can probably adapt the settings below for your software. If you want to contribute settings for your software, pull requests are welcome!
 ___
-  <[Previous](introduction.md) | [Index](index.md) | [Next](kicadgerbers.md)>
+  <[Previous](denfordengraver.md) | [Index](index.md) | [Next](pcb2gcode.md)>
