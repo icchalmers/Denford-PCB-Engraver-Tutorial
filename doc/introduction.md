@@ -28,4 +28,4 @@ Technically, the Denford software is capable of generating the milling files fro
 
 Before we get started, we'll take a quick look at the Denford PCB engraver, it's capabilities and some things to keep in mind when designing circuits to be milled on it.
 ___
-  <[Previous](index.md) | [Next](denfordengraver.md)>
+  <[Previous](index.md) | [Index](index.md) | [Next](denfordengraver.md)>
