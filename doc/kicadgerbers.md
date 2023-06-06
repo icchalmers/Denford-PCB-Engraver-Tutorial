@@ -20,7 +20,7 @@ Below are the recommended gerber generation settings for gettings gerbers compat
 
 ![KiCAD_Gerbers.png](./images/KiCAD_Gerbers.png)
 
-For the drill file, it's best to combine all of the drill hits into one file (as we can#t do plated through holes anyway).
+For the drill file, it's best to combine all of the drill hits into one file (as we can't do plated through holes anyway).
 
 ![KiCAD_Drill.png](./images/KiCAD_Drill.png)
 
