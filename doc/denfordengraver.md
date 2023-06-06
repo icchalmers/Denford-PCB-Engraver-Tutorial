@@ -27,7 +27,8 @@ Aside from the above, there are a few specific limitations that are worth keepin
   - FR4 is **not allowed** to be used in the engraver. Not only is the dust toxic, but FR4 is much harder than FR1/FR2 and it significantly reduces the life of the milling bits.
 
   To enforce this, **only materials purchased from the FabLab can be used on the engraver.** The main downside of FR2 is that it isn't capable of handling as high temperatures as FR4, and as such it can't be used with the reflow oven.
-- **No solder mask:** Solder mask is the green stuff on top of almost every PCB you see. It protects the raw copper and also helps in during soldering by forcing the solder to go where it's meant to. Without a solder mask, you can still use the reflow oven but it has a tendency to heavily discolour the copper to the point it looks burnt.
+- **No solder mask:** Solder mask is the green stuff on top of almost every PCB you see. It protects the raw copper and also helps during soldering by forcing the solder to go where it's meant to. Without a solder mask, you can still use the reflow oven but it has a tendency to heavily discolour the copper to the point it looks burnt.
+- **No silkscreen:** The lack of silkscreen can be unexpectedly annoying when it comes to populating your PCB!
 
 ## When To Use The Denford PCB Engraver
 
