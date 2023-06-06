@@ -28,13 +28,13 @@ The output directory should now have a list of files similar to the one shown be
 
 ![p2g_common](./images/p2g_common.png)
 
-### Drill
-
-![p2g_drill](./images/p2g_drill.png)
-
 ### Mill
 
 ![p2g_mill](./images/p2g_mill.png)
+
+### Drill
+
+![p2g_drill](./images/p2g_drill.png)
 
 ### Outline
 
