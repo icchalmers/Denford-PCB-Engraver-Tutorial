@@ -14,5 +14,16 @@ Below are the DRC rules we recommend for projects designed to be made on the Den
 
 ![KiCAD_DRC_Constraints.png](./images/KiCAD_DRC_Constraints.png)
 
+## Gerber Generation Settings
+
+Below are the recommended gerber generation settings for gettings gerbers compatible with pcb2gcode. Remember to set a sensible drill/place origin in your design.
+
+![KiCAD_Gerbers.png](./images/KiCAD_Gerbers.png)
+
+For the drill file, it's best to combine all of the drill hits into one file (as we can#t do plated through holes anyway).
+
+![KiCAD_Drill.png](./images/KiCAD_Drill.png)
+
+Once your gerber files are generated, you should have a set of files similar to the example ones [here](/example/gerbers/). The next step is to use pcb2gcode to convert our gerber files into GCode that we can use to drive the Denford.
 ___
   <[Previous](denfordengraver.md) | [Index](index.md) | [Next](pcb2gcode.md)>
