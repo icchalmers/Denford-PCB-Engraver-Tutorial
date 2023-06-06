@@ -2,7 +2,7 @@
 
 To turn our gerber files into GCode that can be used to drive the engraver, we're going to use [pcb2gcode](https://github.com/pcb2gcode/pcb2gcode) with its graphical wrapper [pcb2gcodeGUI](https://github.com/pcb2gcode/pcb2gcodeGUI). In the FabLab@Strathclyde, this should be installed on Laptop 1 in `C:\pcb2gcode`.
 
-When your first open the program, you need to import the settings for the Denford. To do this, go to `File->Load configuration file` and choose the [Denford_pcb2gcode.settings](/Denford_pcb2gcode.settings) file included with this tutorial.
+When your first open the program, you need to import the settings for the Denford. To do this, go to `File->Load configuration file` and choose the [Denford_pcb2gcode.settings](/Denford_pcb2gcode.settings) file included with this tutorial. Note that this assumes you are using a 0.2 mm, 60° mill for the traces and a 2 mm corncob mill for the board outline. See the [Drill](./pcb2gcode.md#drill) section below for how to change these settings.
 
 In the `Input/output` tab, select the gerbers you generated in the previous step. If you used the default KiCAD naming, your `Front` will be the file that ends in `-F_Cu.gbr`, `Outline` will be the file that ends in `-Edge_Cuts.gbr` and the `Drill` file will end in `.drl`.
 
