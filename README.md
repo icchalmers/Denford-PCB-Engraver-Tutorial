@@ -4,7 +4,7 @@ This tutorial will lead you through using the [Denford PCB Engraver](https://den
 
 The best way to use the tutorial is in the browser. You can start at the beginning my going to the [Introduction](doc/introduction.md) or use the [Index](doc/index.md) to jump straight to a specific section.
 
-The [latest release](https://github.com/icchalmers/Denford-PCB-Engraver-Tutorial/releases) of the tutorial includes all of the example files and also has a PDF version that is easier for printing.
+The [latest release](https://github.com/icchalmers/Denford-PCB-Engraver-Tutorial/releases/latest) of the tutorial includes all of the example files and also has a PDF version that is easier for printing.
 
 # Author
 
